@@ -1,5 +1,5 @@
 {
-    "name": "react-native-reanimated-table",
+    "name": "@dplus/rn-better-table",
     "version": "0.0.2",
     "description": "📊 A React Native table component using react-native-reanimated and react-native-gesture-handler.",
     "main": "lib/commonjs/index",
@@ -37,8 +37,8 @@
         "ios",
         "android"
     ],
-    "repository": "https://github.com/dohooo/react-native-reanimated-table",
-    "author": "Caspian <caspian.zhao@outlook.com> (https://github.com/dohooo)",
+    "repository": "https://github.com/dongCode/rn-table",
+    "author": "Dplus",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/dohooo/react-native-reanimated-table/issues"
